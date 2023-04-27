@@ -4,6 +4,7 @@
   "description": "Ecommerce project for Final IWS by Group 3",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Group 3 - IWS Spring 2023",
